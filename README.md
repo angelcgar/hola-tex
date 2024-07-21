@@ -10,4 +10,10 @@ y no se muy bien que hace esto pero tienes mas funcionalidades
 sudo fmtutil-sys --all
 ```
 
+y ejecuta esto para transformarlo en pdf tu archivo .tex desde tu terminar
+
+```bash
+pdflatex hola_mundo.tex
+```
+
 y es todo lo que tengo
